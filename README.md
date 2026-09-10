@@ -12,11 +12,12 @@ HTML5
 CSS3
 
 📁 Project Structure
+'''
 amazon-clone-project/
 ├── index.html
 ├── style.css
 └── images/ (project images)
-
+'''
 🚀 Getting Started
 To run this project locally:
 Clone the repository: git clone [https://github.com/Hira-Jahangir/amazon-clone-project.git]
